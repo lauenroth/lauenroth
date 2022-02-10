@@ -1,4 +1,9 @@
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=lauenroth&count_private=true&show_icons=true&theme=dracula&hide=prs,contribs,issues)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lauenroth&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lauenroth&count_private=true&show_icons=true&theme=dracula&hide=prs,contribs,issues"  width="400" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauenroth&layout=compact" />
+</a>
 
 You can find out more about me on [my personal website](https://jörg.dev) and [my computer course website (German)](https://computer-ag.com).
 
