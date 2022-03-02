@@ -7,6 +7,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lauenroth&layout=compact" />
 </a>
 
+---
+
 You can find out more about me on [my personal website](https://jörg.dev) and [my computer course website (German)](https://computer-ag.com).
 
 
